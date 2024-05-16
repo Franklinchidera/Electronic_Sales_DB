@@ -15,5 +15,6 @@ Find orders placed on specific dates and cities with the highest total sales rev
 List products that have never been ordered.
 
 Importance:
+
 This analysis helps businesses make informed decisions regarding inventory management, marketing strategies, and customer engagement. 
 By understanding sales patterns and customer preferences, businesses can optimize operations and drive growth.
